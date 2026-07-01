@@ -321,3 +321,11 @@
         font-size: 18px;
     }
 }
+@media (max-width: 768px) {
+    .Main-Home{
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        min-height: 100vh;
+    }
+}
